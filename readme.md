@@ -91,13 +91,13 @@ Unlike basic setups, this version uses **direct 4-channel motor control (no AFMo
 
 ## 📸 Demo
 
-![Demo Image 1](WhatsApp%20Image%202026-04-22%20at%201.38.39%20PM.jpeg)
+![Demo Image 1](Assest/1.jpeg)
 
-![Demo Image 2](WhatsApp%20Image%202026-04-22%20at%201.38.40%20PM%20(1).jpeg)
+![Demo Image 2](Assest/2.jpeg)
 
-![Demo Image 3](WhatsApp%20Image%202026-04-22%20at%201.38.40%20PM.jpeg)
+![Demo Image 3](Assest/3.jpeg)
 
-![Demo Image 4](WhatsApp%20Image%202026-04-22%20at%201.38.41%20PM.jpeg)
+![Demo Image 4](Assest/4.jpeg)
 
 ---
 
