@@ -86,7 +86,7 @@ Unlike basic setups, this version uses **direct 4-channel motor control (no AFMo
 * Bluetooth / mobile control
 * Camera-based obstacle detection
 * Smarter navigation algorithms
-
+ 
 ---
 
 ## 📸 Demo
