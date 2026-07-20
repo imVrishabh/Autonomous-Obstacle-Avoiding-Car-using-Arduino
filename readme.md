@@ -13,7 +13,7 @@ Unlike basic setups, this version uses **direct 4-channel motor control (no AFMo
 * Autonomous navigation (no manual control)
 * Direct 4-channel motor control (IN1–IN4)
 * Fully battery-powered system
-
+ 
 ---
 
 ## ⚙️ Components Used
